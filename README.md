@@ -24,10 +24,10 @@ A list of class labels is defined for later use in predicting and displaying res
 6. Prediction Function
 A function named predict_image is defined to predict the class of a selected image. This function takes an input image, preprocesses it, and passes it through the trained model to obtain the predicted class label. The predicted label can then be used for further analysis or visualization.
 
-##DATASET
+## DATASET
 The dataset is a comprehensive collection of leaf images representing a wide range of plant classes. Each image in the dataset corresponds to a leaf from various plant species, offering a rich resource for research and development in leaf classification and plant recognition tasks.
 
->>Input:- The input for plant type detection is provided by selecting an image through a graphical user interface (GUI) using the "Select Image" button, which opens a file dialog for the user to choose an image file
+Input:- The input for plant type detection is provided by selecting an image through a graphical user interface (GUI) using the "Select Image" button, which opens a file dialog for the user to choose an image file
 
->>Output:- The output is obtained by passing the selected image through the trained Convolutional Neural Network (CNN) model, which predicts the plant type and its corresponding label, showcasing the result on the graphical user interface (GUI)..
+Output:- The output is obtained by passing the selected image through the trained Convolutional Neural Network (CNN) model, which predicts the plant type and its corresponding label, showcasing the result on the graphical user interface (GUI)..
 
